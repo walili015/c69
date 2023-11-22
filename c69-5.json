@@ -1,7 +1,7 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
-    "unityGameId": "999999",
+    "adNetwork": "unity",
+    "unityGameId": "5482302",
     "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
@@ -11,11 +11,11 @@
     "applovinBanner": "",
     "applovinInterstitial": "99999999",
 
-    "modeads": false,
-    "IMG1_URL": "https://c37.netlify.app/c37-4.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=xxxxxxxxxxxxxxxxxxxxxx",
-    "IMG2_URL": "https://c37.netlify.app/c37-1.png",
-    "TEXT2_URL": "https://play.google.com/store/apps/details?id=xxxxxxxxxxxxxxxxxxxx",
+    "modeads": true,
+    "IMG1_URL": "https://cross-pan.netlify.app/c69-6.jpg",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.migatownbarby.tocaboca_dressup",
+    "IMG2_URL": "https://cross-pan.netlify.app/c69-6.jpg",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.migatownbarby.tocaboca_dressup",
     "ratingActive": true
   }
 }
